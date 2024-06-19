@@ -1,4 +1,4 @@
-# max-schwendemann-tbii-exam
+# max-schwendemann-tbii-exam-streamA
 
 This repository contains Max Schwendemann's Tech Basics II Exam Project code.
 

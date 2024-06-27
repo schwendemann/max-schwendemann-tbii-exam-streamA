@@ -9,7 +9,7 @@ When you run the `app.py` you are greeted with a homepage, which has three butto
 - Have a look at the words that are already part of your word treasure chest "Wortschatzl".
 - Add new words that inspire or amuse you to the "Wortschatzl" so you can learn and remember them later.
 
-<img src="./image/homepage.jpg" width="360" height="800">
+<img src="./image/screenshot_homepage.png" width="360" height="800">
 
 ---
 ## Instructions to run my GUI

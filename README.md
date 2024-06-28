@@ -5,7 +5,7 @@ This repository contains my Tech Basics II Exam Project code.
 
 I have built a MVP for Wortschatzl - an app to learn, use and store beautiful German words:
 When you run the `app.py` you are greeted with a homepage, which has three buttons that each lead to a subpage of the app. Depending on which button you choose you can either:
-- Start you learning journey immediately by getting two nice German words you have to build a sentence with. Everytime you get the spelling right you get a coin. The practice makes the words stick in you head.
+- Start you learning journey immediately by getting two nice German words you have to build a sentence with. Every time you get the spelling right you get a coin. The practice makes the words stick in you head.
 - Have a look at the words that are already part of your word treasure chest "Wortschatzl".
 - Add new words that inspire or amuse you to the "Wortschatzl" so you can learn and remember them later.
 
